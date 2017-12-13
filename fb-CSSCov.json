@@ -1,0 +1,798 @@
+[
+  {
+    "index": "0",
+    "css": "._53jh{background-color:#3b5998;background-image:linear-gradient(#4e69a2, #3b5998 50%);border-bottom:1px solid #133783;min-height:42px}"
+  },
+  {
+    "index": "1",
+    "css": ".loggedout_menubar_container{height:82px;min-width:980px}"
+  },
+  {
+    "index": "2",
+    "css": ".loggedout_menubar{margin:0 auto;padding-top:13px;width:980px}"
+  },
+  {
+    "index": "3",
+    "css": ".sp_3TP4VSYN-yY{background-image:url(/rsrc.php/v3/yr/r/Zd_CsCJ2Xcp.png);background-size:auto;background-repeat:no-repeat;display:inline-block;height:34px;width:170px}"
+  },
+  {
+    "index": "4",
+    "css": ".loggedout_menubar .fb_logo{margin-top:17px}"
+  },
+  {
+    "index": "5",
+    "css": ".sp_3TP4VSYN-yY.sx_a9bb6e{background-position:0 0}"
+  },
+  {
+    "index": "6",
+    "css": ".menu_login_container table tr{vertical-align:top}"
+  },
+  {
+    "index": "7",
+    "css": ".menu_login_container table tr td{padding:0 0 0 14px}"
+  },
+  {
+    "index": "8",
+    "css": ".menu_login_container .html7magic{padding-bottom:4px}"
+  },
+  {
+    "index": "9",
+    "css": ".menu_login_container .html7magic label{color:#fff;font-weight:normal;padding-left:1px}"
+  },
+  {
+    "index": "10",
+    "css": ".menu_login_container .inputtext,.menu_login_container .inputpassword{border-color:#1d2a5b;margin:0;width:142px}"
+  },
+  {
+    "index": "11",
+    "css": ".menu_login_container #email{direction:ltr}"
+  },
+  {
+    "index": "12",
+    "css": ".menu_login_container .login_form_label_field{padding-top:4px}"
+  },
+  {
+    "index": "13",
+    "css": ".menu_login_container .login_form_label_field label,.menu_login_container .login_form_label_field a{color:#9cb4d8;font-weight:normal}"
+  },
+  {
+    "index": "14",
+    "css": ".tinyViewport ._53jh{min-width:-webkit-max-content;min-width:max-content}"
+  },
+  {
+    "index": "15",
+    "css": ".uiBoxGray{background-color:#f2f2f2;border:1px solid #ccc}"
+  },
+  {
+    "index": "16",
+    "css": ".noborder{border:none}"
+  },
+  {
+    "index": "17",
+    "css": "._5aj7{display:flex}"
+  },
+  {
+    "index": "18",
+    "css": "._4bl7,._4bl9{word-wrap:break-word}"
+  },
+  {
+    "index": "19",
+    "css": "._5aj7 ._4bl7{float:none}"
+  },
+  {
+    "index": "20",
+    "css": "._50f3{font-size:12px;line-height:16px}"
+  },
+  {
+    "index": "21",
+    "css": "._4bl9{overflow:hidden}"
+  },
+  {
+    "index": "22",
+    "css": "._5aj7 ._4bl9{flex:1 0 0px}"
+  },
+  {
+    "index": "23",
+    "css": "._2agf{word-wrap:normal}"
+  },
+  {
+    "index": "24",
+    "css": "._2agf._4o_4{display:inline-flex}"
+  },
+  {
+    "index": "25",
+    "css": "._55pe{display:inline-block;overflow:hidden;text-overflow:ellipsis;vertical-align:top;white-space:nowrap}"
+  },
+  {
+    "index": "26",
+    "css": "._3-99{margin-left:4px}"
+  },
+  {
+    "index": "27",
+    "css": "i.img u{clip:rect(1px 1px 1px 1px);clip:rect(1px, 1px, 1px, 1px);height:1px;left:auto;overflow:hidden;position:absolute;white-space:nowrap;width:1px}"
+  },
+  {
+    "index": "28",
+    "css": ".uiContextualLayerParent{position:relative}"
+  },
+  {
+    "index": "29",
+    "css": "._3-90{margin-right:8px}"
+  },
+  {
+    "index": "30",
+    "css": "._2ph-{padding:8px}"
+  },
+  {
+    "index": "31",
+    "css": "._2pid{padding-top:8px}"
+  },
+  {
+    "index": "32",
+    "css": "._4ki>li{border-width:0 0 0 1px;display:inline-block}"
+  },
+  {
+    "index": "33",
+    "css": "._509->li{vertical-align:top}"
+  },
+  {
+    "index": "34",
+    "css": ".uiList>li:first-child{border-width:0}"
+  },
+  {
+    "index": "35",
+    "css": "._4ki._6-j>li{padding-left:10px;padding-right:10px}"
+  },
+  {
+    "index": "36",
+    "css": "._4ki._6-i>li{padding-right:0}"
+  },
+  {
+    "index": "37",
+    "css": "._4ki._6-h>li:first-child{padding-left:0}"
+  },
+  {
+    "index": "38",
+    "css": "._4ki._6-h>li:last-child{padding-right:0}"
+  },
+  {
+    "index": "39",
+    "css": ".uiButton{border-radius:2px;cursor:pointer;display:inline-block;font-size:12px;-webkit-font-smoothing:antialiased;font-weight:bold;line-height:18px;padding:2px 6px;text-align:center;text-decoration:none;text-shadow:none;vertical-align:top;white-space:nowrap}"
+  },
+  {
+    "index": "40",
+    "css": ".uiButton,.uiButtonSuppressed:active,.uiButtonSuppressed:focus,.uiButtonSuppressed:hover{background-color:#f6f7f9;border:1px solid #ced0d4}"
+  },
+  {
+    "index": "41",
+    "css": ".uiButtonConfirm{background-color:#4267b2;border-color:#29487d}"
+  },
+  {
+    "index": "42",
+    "css": ".uiButtonText,.uiButton input{background:none;border:0;color:#4b4f56;cursor:pointer;display:inline-block;font-family:Helvetica, Arial, sans-serif;font-size:12px;font-weight:bold;line-height:18px;margin:0;padding:0;white-space:nowrap}"
+  },
+  {
+    "index": "43",
+    "css": "form.async_saving .uiButton.uiButtonSpecial .uiButtonText,form.async_saving .uiButton.uiButtonSpecial input,form.async_saving .uiButton.uiButtonConfirm .uiButtonText,form.async_saving .uiButton.uiButtonConfirm input,.uiButtonSpecial .uiButtonText,.uiButtonSpecial input,.uiButtonSpecial.uiButtonDisabled .uiButtonText,.uiButtonSpecial.uiButtonDisabled input,.uiButtonConfirm .uiButtonText,.uiButtonConfirm input,.uiButtonConfirm.uiButtonDisabled .uiButtonText,.uiButtonConfirm.uiButtonDisabled input{color:#fff}"
+  },
+  {
+    "index": "44",
+    "css": ".fbIndex .gradient{background:url(/rsrc.php/v3/yB/r/TwAHgQi2ZPB.png) 0 bottom repeat-x;background:linear-gradient(white, #D3D8E8)}"
+  },
+  {
+    "index": "45",
+    "css": ".fbIndex .gradient{min-width:980px}"
+  },
+  {
+    "index": "46",
+    "css": ".fbIndex .gradient .gradientContent{margin:0 auto;width:980px}"
+  },
+  {
+    "index": "47",
+    "css": "._5iyy{margin-right:15px;width:565px}"
+  },
+  {
+    "index": "48",
+    "css": "._5iyx{color:#0e385f;font-size:20px;font-weight:bold;line-height:29px;margin-top:40px;width:450px;word-spacing:-1px}"
+  },
+  {
+    "index": "49",
+    "css": "._5iyz{max-width:400px}"
+  },
+  {
+    "index": "50",
+    "css": "._52lp._59d- ._52lq{font-size:36px}"
+  },
+  {
+    "index": "51",
+    "css": "._52lp._59d- ._52lr{color:#1d2129;font-size:19px}"
+  },
+  {
+    "index": "52",
+    "css": "._58mh{width:399px}"
+  },
+  {
+    "index": "53",
+    "css": "._5dbb{position:relative}"
+  },
+  {
+    "index": "54",
+    "css": "._58mf ._58mg{border-color:#bdc7d8;border-radius:5px;margin:0;width:377px}"
+  },
+  {
+    "index": "55",
+    "css": "._58mf ._58mg,._58mf .uiStickyPlaceholderInput .placeholder{font-size:18px;padding:8px 10px}"
+  },
+  {
+    "index": "56",
+    "css": "._58mh ._58mg{width:172px}"
+  },
+  {
+    "index": "57",
+    "css": ".sp_vlIa-KtzX8k{background-image:url(/rsrc.php/v3/yM/r/5p2hJTeMQro.png);background-size:auto;background-repeat:no-repeat;display:inline-block;height:21px;width:21px}"
+  },
+  {
+    "index": "58",
+    "css": "._5dbb ._5dbc,._5dbb ._5dbd{display:none;position:absolute;right:9px;top:9px}"
+  },
+  {
+    "index": "59",
+    "css": ".sp_vlIa-KtzX8k.sx_49df9c{background-position:0 -43px}"
+  },
+  {
+    "index": "60",
+    "css": ".sp_vlIa-KtzX8k.sx_35388b{background-position:0 -65px}"
+  },
+  {
+    "index": "61",
+    "css": "._1ixn ._1pc_{display:none;margin-top:-10px}"
+  },
+  {
+    "index": "62",
+    "css": "._5dbb ._1pc_{display:none}"
+  },
+  {
+    "index": "63",
+    "css": "._5k_5{position:relative}"
+  },
+  {
+    "index": "64",
+    "css": "._5k_4{display:inline-block}"
+  },
+  {
+    "index": "65",
+    "css": "._58mq select{font-size:13px;height:30px;padding:5px}"
+  },
+  {
+    "index": "66",
+    "css": "._58ms{display:inline-block;max-width:140px;vertical-align:middle}"
+  },
+  {
+    "index": "67",
+    "css": "._58ms{font-size:11px;max-width:150px}"
+  },
+  {
+    "index": "68",
+    "css": "._58mq ._5k_5 ._5k_6,._58mq ._5k_5 ._5k_7{top:4px}"
+  },
+  {
+    "index": "69",
+    "css": "._5k_3{display:inline-block}"
+  },
+  {
+    "index": "70",
+    "css": "._5k_2{border-radius:4px;border-width:1px;display:inline-block;padding:5px 0 5px 4px}"
+  },
+  {
+    "index": "71",
+    "css": "._5k_2:first-child{margin-right:4px}"
+  },
+  {
+    "index": "72",
+    "css": "._58mt{color:#1d2129;font-size:18px;font-weight:normal;line-height:18px;padding:0 10px 0 3px}"
+  },
+  {
+    "index": "73",
+    "css": "._58mu{width:399px}"
+  },
+  {
+    "index": "74",
+    "css": "._58mu ._58mv{color:#777;font-size:11px;width:316px}"
+  },
+  {
+    "index": "75",
+    "css": "._6j{border:1px solid;border-radius:5px;color:#fff;cursor:pointer;display:inline-block;letter-spacing:1px;position:relative;text-shadow:0 1px 2px rgba(0,0,0,.5)}"
+  },
+  {
+    "index": "76",
+    "css": "._6wk{padding:20px 30px}"
+  },
+  {
+    "index": "77",
+    "css": "._6wl{background:linear-gradient(#67ae55, #578843);background-color:#69a74e;box-shadow:inset 0 1px 1px #a4e388;border-color:#3b6e22 #3b6e22 #2c5115}"
+  },
+  {
+    "index": "78",
+    "css": "._6o{font-size:19px;line-height:126%}"
+  },
+  {
+    "index": "79",
+    "css": "._6v{font-weight:bold}"
+  },
+  {
+    "index": "80",
+    "css": "._58mw{line-height:16px;padding-top:10px}"
+  },
+  {
+    "index": "81",
+    "css": "._58mf .uiStickyPlaceholderInput{background:white;border-radius:5px;width:399px}"
+  },
+  {
+    "index": "82",
+    "css": "._58mh .uiStickyPlaceholderInput{width:194px}"
+  },
+  {
+    "index": "83",
+    "css": "._58mf .uiStickyPlaceholderInput .placeholder{box-sizing:border-box;overflow:hidden;padding-left:11px;text-overflow:ellipsis;white-space:nowrap}"
+  },
+  {
+    "index": "84",
+    "css": "#facebook ._-kb div{font-family:inherit}"
+  },
+  {
+    "index": "85",
+    "css": "._3_s0._3_s0{border:0;display:flex;-webkit-font-smoothing:antialiased;height:44px;min-width:981px;position:relative;text-align:left;top:0;transition:top .3s, height .3s;z-index:301}"
+  },
+  {
+    "index": "86",
+    "css": "._3_s0._1toe{height:0;overflow:hidden}"
+  },
+  {
+    "index": "87",
+    "css": "._3_s1._3_s0{background-color:#29487d;color:#fff}"
+  },
+  {
+    "index": "88",
+    "css": "._3_s0 ._608m{align-self:flex-end;margin:0 auto;max-width:981px;min-width:100px;width:100%}"
+  },
+  {
+    "index": "89",
+    "css": "._3_s0 ._tb6{align-items:center;height:44px}"
+  },
+  {
+    "index": "90",
+    "css": ".mrm{margin-right:10px}"
+  },
+  {
+    "index": "91",
+    "css": "._3_s0 ._3bcv{font:Helvetica, Arial, sans-serif;font-size:12px;font-weight:bold;line-height:24px}"
+  },
+  {
+    "index": "92",
+    "css": "#facebook ._-kb span{font-family:inherit}"
+  },
+  {
+    "index": "93",
+    "css": "._3_s0 ._3bcp{overflow:visible}"
+  },
+  {
+    "index": "94",
+    "css": "._6a{display:inline-block}"
+  },
+  {
+    "index": "95",
+    "css": "._3_s0 ._608n{display:flex}"
+  },
+  {
+    "index": "96",
+    "css": "._42ft{cursor:pointer;display:inline-block;text-decoration:none;white-space:nowrap}"
+  },
+  {
+    "index": "97",
+    "css": "._4jy0{border:1px solid;border-radius:2px;box-sizing:content-box;font-size:12px;-webkit-font-smoothing:antialiased;font-weight:bold;justify-content:center;padding:0 8px;position:relative;text-align:center;text-shadow:none;vertical-align:middle}"
+  },
+  {
+    "index": "98",
+    "css": "._4jy0{transition:200ms cubic-bezier(.08,.52,.52,1) background-color, 200ms cubic-bezier(.08,.52,.52,1) box-shadow, 200ms cubic-bezier(.08,.52,.52,1) transform}"
+  },
+  {
+    "index": "99",
+    "css": "._517h,._59pe:focus,._59pe:hover{background-color:#f6f7f9;border-color:#ced0d4;color:#4b4f56}"
+  },
+  {
+    "index": "100",
+    "css": "._4jy3,._4jy3._42fr:active,._4jy3._42fr._42fs{line-height:22px}"
+  },
+  {
+    "index": "101",
+    "css": "a._p{display:block}"
+  },
+  {
+    "index": "102",
+    "css": "#facebook ._-kb a{font-family:inherit}"
+  },
+  {
+    "index": "103",
+    "css": "._4jy0:before{content:'';display:inline-block;height:20px;vertical-align:middle}"
+  },
+  {
+    "index": "104",
+    "css": ".sp_1jem3Pr7Br9{background-image:url(/rsrc.php/v3/yK/r/WMbGrL_54xO.png);background-size:auto;background-repeat:no-repeat;display:inline-block;height:16px;width:16px}"
+  },
+  {
+    "index": "105",
+    "css": "._4jy0 .img{bottom:1px;position:relative;vertical-align:middle}"
+  },
+  {
+    "index": "106",
+    "css": ".sp_1jem3Pr7Br9.sx_a21b7a{width:9px;height:8px;background-position:-376px -196px}"
+  },
+  {
+    "index": "107",
+    "css": "._3bcs{flex:1 0 0px}"
+  },
+  {
+    "index": "108",
+    "css": "._4jy1,._4jy2{color:#fff}"
+  },
+  {
+    "index": "109",
+    "css": "._4jy1{background-color:#4267b2;border-color:#4267b2}"
+  },
+  {
+    "index": "110",
+    "css": "._3_s1 ._3_s2{background:#29487d;border-color:#29487d}"
+  },
+  {
+    "index": "111",
+    "css": ".sp_1jem3Pr7Br9.sx_80b77f{width:9px;height:8px;background-position:-247px -196px}"
+  },
+  {
+    "index": "112",
+    "css": ".selected .sp_1jem3Pr7Br9.sx_80b77f{background-position:-238px -196px}"
+  },
+  {
+    "index": "113",
+    "css": "._3bct{position:relative}"
+  },
+  {
+    "index": "114",
+    "css": ".pll{padding-left:20px}"
+  },
+  {
+    "index": "115",
+    "css": ".mlm{margin-left:10px}"
+  },
+  {
+    "index": "116",
+    "css": "._3bct::before{content:'';display:block;height:18px;left:-1px;position:absolute;top:4px;width:1px}"
+  },
+  {
+    "index": "117",
+    "css": "._3_s1 ._3bct::before{background:rgba(0, 0, 0, .3)}"
+  },
+  {
+    "index": "118",
+    "css": "._3_s0 ._3bcy{line-height:24px}"
+  },
+  {
+    "index": "119",
+    "css": "._3_s0 ._3bcz{border-radius:4px;padding:1px 4px}"
+  },
+  {
+    "index": "120",
+    "css": "._3_s1 ._3bcz{background:#fff;color:#000}"
+  },
+  {
+    "index": "121",
+    "css": ".clearfix{zoom:1}"
+  },
+  {
+    "index": "122",
+    "css": ".lfloat{float:left}"
+  },
+  {
+    "index": "123",
+    "css": "._ohe{float:left}"
+  },
+  {
+    "index": "124",
+    "css": "#facebook ._-kb h1,#facebook ._-kb h2,#facebook ._-kb h3,#facebook ._-kb h4,#facebook ._-kb h5,#facebook ._-kb h6,#facebook ._-kb p{font-family:inherit}"
+  },
+  {
+    "index": "125",
+    "css": ".rfloat{float:right}"
+  },
+  {
+    "index": "126",
+    "css": "._ohf{float:right}"
+  },
+  {
+    "index": "127",
+    "css": "form{margin:0;padding:0}"
+  },
+  {
+    "index": "128",
+    "css": "#facebook ._-kb button,#facebook ._-kb input,#facebook ._-kb label,#facebook ._-kb select,#facebook ._-kb td,#facebook ._-kb textarea{font-family:inherit;letter-spacing:inherit}"
+  },
+  {
+    "index": "129",
+    "css": "label{color:#666;cursor:default;font-weight:bold;vertical-align:middle}"
+  },
+  {
+    "index": "130",
+    "css": "textarea,.inputtext,.inputpassword{border:1px solid #bdc7d8;margin:0;padding:3px;-webkit-appearance:none;-webkit-border-radius:0}"
+  },
+  {
+    "index": "131",
+    "css": ".inputtext,.inputpassword{padding-bottom:4px}"
+  },
+  {
+    "index": "132",
+    "css": "label input{font-weight:normal}"
+  },
+  {
+    "index": "133",
+    "css": ".clearfix:after{clear:both;content:\".\";display:block;font-size:0;height:0;line-height:0;visibility:hidden}"
+  },
+  {
+    "index": "134",
+    "css": "#globalContainer{margin:0 auto;position:relative;zoom:1}"
+  },
+  {
+    "index": "135",
+    "css": ".fb_content{min-height:612px;padding-bottom:20px}"
+  },
+  {
+    "index": "136",
+    "css": ".pvl{padding-top:20px;padding-bottom:20px}"
+  },
+  {
+    "index": "137",
+    "css": ".mbs{margin-bottom:5px}"
+  },
+  {
+    "index": "138",
+    "css": ".fsl{font-size:14px}"
+  },
+  {
+    "index": "139",
+    "css": ".fwb{font-weight:bold}"
+  },
+  {
+    "index": "140",
+    "css": ".fcb{color:#333}"
+  },
+  {
+    "index": "141",
+    "css": ".fsm{font-size:12px}"
+  },
+  {
+    "index": "142",
+    "css": ".fwn{font-weight:normal}"
+  },
+  {
+    "index": "143",
+    "css": ".fcg{color:#90949c}"
+  },
+  {
+    "index": "144",
+    "css": "#facebook .hidden_elem{display:none !important}"
+  },
+  {
+    "index": "145",
+    "css": ".mbm{margin-bottom:10px}"
+  },
+  {
+    "index": "146",
+    "css": "*::-webkit-input-placeholder{color:#90949c}"
+  },
+  {
+    "index": "147",
+    "css": ".mtm{margin-top:10px}"
+  },
+  {
+    "index": "148",
+    "css": "select{border:1px solid #bdc7d8;padding:2px}"
+  },
+  {
+    "index": "149",
+    "css": ".mvm{margin-top:10px;margin-bottom:10px}"
+  },
+  {
+    "index": "150",
+    "css": "._517i,._517i._42fr:active,._517i._42fr._42fs{height:18px;line-height:18px}"
+  },
+  {
+    "index": "151",
+    "css": ".sp_2bEXWjoHaj1{background-image:url(/rsrc.php/v3/yI/r/wJ3C51R9dcZ.png);background-size:auto;background-repeat:no-repeat;display:inline-block;height:16px;width:16px}"
+  },
+  {
+    "index": "152",
+    "css": ".sp_2bEXWjoHaj1.sx_2944d5{width:12px;height:12px;background-position:-17px -374px}"
+  },
+  {
+    "index": "153",
+    "css": "._51mz{border:0;border-collapse:collapse;border-spacing:0}"
+  },
+  {
+    "index": "154",
+    "css": ".plm{padding-left:10px}"
+  },
+  {
+    "index": "155",
+    "css": ".uiGrid .hLeft{text-align:left}"
+  },
+  {
+    "index": "156",
+    "css": "._51mx:first-child>._51m-{padding-top:0}"
+  },
+  {
+    "index": "157",
+    "css": "._51mz ._51m-:first-child{padding-left:0}"
+  },
+  {
+    "index": "158",
+    "css": "._51mz ._51mw{padding-right:0}"
+  },
+  {
+    "index": "159",
+    "css": "._51mx:last-child>._51m-{padding-bottom:0}"
+  },
+  {
+    "index": "160",
+    "css": "._41uf,._41ug{display:inline-block;padding-right:14px;position:relative}"
+  },
+  {
+    "index": "161",
+    "css": "._41ug .img{position:absolute;top:1px;vertical-align:middle}"
+  },
+  {
+    "index": "162",
+    "css": "#facebook .accessible_elem{clip:rect(1px 1px 1px 1px);clip:rect(1px, 1px, 1px, 1px);height:1px;overflow:hidden;position:absolute;white-space:nowrap;width:1px}"
+  },
+  {
+    "index": "163",
+    "css": ".mvl{margin-top:20px;margin-bottom:20px}"
+  },
+  {
+    "index": "164",
+    "css": ".uiStickyPlaceholderInput{display:inline-block;position:relative}"
+  },
+  {
+    "index": "165",
+    "css": ".uiStickyPlaceholderInput .placeholder{color:#999;cursor:text;display:none;height:100%;left:0;padding:4px 0 0 5px;position:absolute;top:0;width:100%}"
+  },
+  {
+    "index": "166",
+    "css": "div.uiStickyPlaceholderEmptyInput .placeholder{display:block}"
+  },
+  {
+    "index": "167",
+    "css": ".uiStickyPlaceholderInput input,.uiStickyPlaceholderInput textarea{background-color:transparent;position:relative}"
+  },
+  {
+    "index": "168",
+    "css": "body{background:#fff;color:#1d2129;direction:ltr;line-height:1.34;margin:0;padding:0;unicode-bidi:embed}"
+  },
+  {
+    "index": "169",
+    "css": "body,button,input,label,select,td,textarea{font-family:Helvetica, Arial, sans-serif;font-size:12px}"
+  },
+  {
+    "index": "170",
+    "css": "body{overflow-y:scroll}"
+  },
+  {
+    "index": "171",
+    "css": "._li._li._li{overflow:initial}"
+  },
+  {
+    "index": "172",
+    "css": "a{color:#365899;cursor:pointer;text-decoration:none}"
+  },
+  {
+    "index": "173",
+    "css": "h1,h2,h3,h4,h5,h6{color:#1d2129;font-size:13px;margin:0;padding:0}"
+  },
+  {
+    "index": "174",
+    "css": "h1{font-size:14px}"
+  },
+  {
+    "index": "175",
+    "css": "td,td.label{text-align:left}"
+  },
+  {
+    "index": "176",
+    "css": "#content{margin:0;outline:none;padding:0;width:auto}"
+  },
+  {
+    "index": "177",
+    "css": "img{border:0}"
+  },
+  {
+    "index": "178",
+    "css": "p{margin:1em 0}"
+  },
+  {
+    "index": "179",
+    "css": "button{margin:0}"
+  },
+  {
+    "index": "180",
+    "css": "ul{list-style-type:none;margin:0;padding:0}"
+  },
+  {
+    "index": "181",
+    "css": "._3ma{font-family:'Freight Sans Bold', Helvetica, Arial, sans-serif !important;font-weight:bold !important;letter-spacing:normal;text-rendering:optimizelegibility}"
+  },
+  {
+    "index": "182",
+    "css": "#pageFooter{color:#737373;margin:0 auto;width:980px}"
+  },
+  {
+    "index": "183",
+    "css": "#pageFooter a{text-decoration:none;white-space:nowrap}"
+  },
+  {
+    "index": "184",
+    "css": "#pageFooter a:last-child{margin-right:0}"
+  },
+  {
+    "index": "185",
+    "css": "#contentCurve{border-bottom:1px solid #dddfe2;font-size:1px;height:8px;margin-bottom:8px}"
+  },
+  {
+    "index": "186",
+    "css": ".navigationGrid{line-height:20px;width:300px}"
+  },
+  {
+    "index": "187",
+    "css": ".navigationGrid td{padding-right:10px}"
+  },
+  {
+    "index": "188",
+    "css": ".sp_rCZ0dKAgFlD{background-image:url(/rsrc.php/v3/yA/r/y-lLs2joLCS.png);background-size:auto;background-repeat:no-repeat;display:inline-block;height:16px;width:16px}"
+  },
+  {
+    "index": "189",
+    "css": ".sp_rCZ0dKAgFlD.sx_abfa53{background-position:-166px -315px}"
+  },
+  {
+    "index": "190",
+    "css": "#pageFooter .copyright{font-size:11px}"
+  },
+  {
+    "index": "191",
+    "css": "._58mf{margin:0 auto 0 auto;padding-bottom:30px}"
+  },
+  {
+    "index": "192",
+    "css": "._58mn{background:#ffebe8;border:1px solid #dd3c10;line-height:15px;margin:12px 0 12px 0;overflow:hidden;text-align:center}"
+  },
+  {
+    "index": "193",
+    "css": "._a4y{display:inline-block;position:relative}"
+  },
+  {
+    "index": "194",
+    "css": "._2_68{color:#1d2129;font-size:18px;font-weight:normal}"
+  },
+  {
+    "index": "195",
+    "css": "._58mi{min-width:194px;padding:7px 20px;text-align:center}"
+  },
+  {
+    "index": "196",
+    "css": "._58mf ._6o{font-size:19px}"
+  },
+  {
+    "index": "197",
+    "css": "._58ml{margin-left:10px;position:relative;top:3px}"
+  },
+  {
+    "index": "198",
+    "css": "._58mk{border-top:1px solid #dddfe2;color:#666;font-size:13px;font-weight:bold;margin-top:10px;padding-top:15px}"
+  }
+]

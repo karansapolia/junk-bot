@@ -1,0 +1,694 @@
+[
+  {
+    "index": "0",
+    "css": ".styled-select {\n        display: block;\n    }"
+  },
+  {
+    "index": "1",
+    "css": "html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;font-size:62.5%}"
+  },
+  {
+    "index": "2",
+    "css": "body{margin:0}"
+  },
+  {
+    "index": "3",
+    "css": "body{background-color:#fff;font-family:sans-serif;font-size:13px;font-size:1.3rem;line-height:1.5;margin:3.9px 0;margin:.39rem 0}"
+  },
+  {
+    "index": "4",
+    "css": "h1{font-size:32px;font-size:3.2rem;margin:10.7px 0;margin:1.07rem 0}"
+  },
+  {
+    "index": "5",
+    "css": ".central-textlogo{margin:30px 0 15px 0;margin:3rem 0 1.5rem 0;padding:10px 0;padding:1rem 0;font-family:'Linux Libertine','Hoefler Text',Georgia,'Times New Roman',Times,serif;font-size:30px;font-size:3rem;font-weight:400;line-height:33px;line-height:3.3rem;text-align:center;-moz-font-feature-settings:\"ss05=1\";-moz-font-feature-settings:\"ss05\";-webkit-font-feature-settings:\"ss05\";-ms-font-feature-settings:\"ss05\";font-feature-settings:\"ss05\"}"
+  },
+  {
+    "index": "6",
+    "css": ".central-textlogo{position:relative;height:70px;margin:0;padding:0;line-height:normal;text-align:center}"
+  },
+  {
+    "index": "7",
+    "css": ".central-textlogo__image{color:transparent;display:inline-block;overflow:hidden;text-indent:-10000px}"
+  },
+  {
+    "index": "8",
+    "css": ".central-textlogo__image{margin-top:8px;margin-top:.8rem}"
+  },
+  {
+    "index": "9",
+    "css": "b,strong{font-weight:700}"
+  },
+  {
+    "index": "10",
+    "css": ".localized-slogan{display:block;margin-bottom:-20px;margin-bottom:-2rem;font-family:'Linux Libertine',Georgia,Times,serif;font-size:16px;font-size:1.6rem;-webkit-font-feature-settings:normal;-moz-font-feature-settings:normal;font-feature-settings:normal;font-variant:normal;font-weight:400}"
+  },
+  {
+    "index": "11",
+    "css": ".localized-slogan{margin-left:18px;margin-left:1.8rem}"
+  },
+  {
+    "index": "12",
+    "css": ".js-enabled .central-featured,.js-enabled .jsl10n{visibility:hidden}"
+  },
+  {
+    "index": "13",
+    "css": ".central-featured{position:relative;height:325px;height:32.5rem;width:546px;width:54.6rem;max-width:100%;margin:0 auto;text-align:center;vertical-align:middle}"
+  },
+  {
+    "index": "14",
+    "css": ".central-featured{width:auto;height:auto;margin-top:41.6px;margin-top:4.16rem;padding-top:20.8px;padding-top:2.08rem;font-size:10.4px;font-size:1.04rem;text-align:left}"
+  },
+  {
+    "index": "15",
+    "css": ".central-featured-logo-wrapper{line-height:312px;line-height:31.2rem;vertical-align:middle}"
+  },
+  {
+    "index": "16",
+    "css": "img{border:0}"
+  },
+  {
+    "index": "17",
+    "css": "img{border:0;vertical-align:middle}"
+  },
+  {
+    "index": "18",
+    "css": ".central-featured-logo{position:absolute;top:-70px;left:8.32px;left:.832rem;right:0;width:70px;margin-top:-41.6px;margin-top:-4.16rem}"
+  },
+  {
+    "index": "19",
+    "css": ".central-featured-lang{position:absolute;width:156px;width:15.6rem}"
+  },
+  {
+    "index": "20",
+    "css": ".lang1{top:0;right:60%}"
+  },
+  {
+    "index": "21",
+    "css": ".central-featured-lang{display:block;float:left;position:relative;top:auto;left:auto;right:auto;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;height:64px;height:6.4rem;width:33%;margin:0;padding:0 16px;padding:0 1.6rem;font-size:12.8px;font-size:1.28rem;text-align:center}"
+  },
+  {
+    "index": "22",
+    "css": "a{background-color:transparent}"
+  },
+  {
+    "index": "23",
+    "css": "a{-ms-touch-action:manipulation;touch-action:manipulation}"
+  },
+  {
+    "index": "24",
+    "css": "a,a:active,a:focus{unicode-bidi:embed;outline:0;color:#36c;text-decoration:none}"
+  },
+  {
+    "index": "25",
+    "css": ".central-featured-lang .link-box{display:block;padding:0;text-decoration:none;white-space:normal}"
+  },
+  {
+    "index": "26",
+    "css": ".central-featured-lang strong{display:block;font-size:larger}"
+  },
+  {
+    "index": "27",
+    "css": ".central-featured-lang strong{font-size:12.8px;font-size:1.28rem}"
+  },
+  {
+    "index": "28",
+    "css": "small{font-size:85%}"
+  },
+  {
+    "index": "29",
+    "css": ".central-featured-lang small{display:inline-block;font-size:11.04px;font-size:1.104rem;line-height:10.36px;line-height:1.036rem;color:#54595d}"
+  },
+  {
+    "index": "30",
+    "css": ".central-featured-lang small{font-size:6.8px;font-size:.68rem;line-height:10.2px;line-height:1.02rem}"
+  },
+  {
+    "index": "31",
+    "css": ".lang2{top:0;left:60%}"
+  },
+  {
+    "index": "32",
+    "css": ".lang3{top:20%;right:70%}"
+  },
+  {
+    "index": "33",
+    "css": ".lang4{top:20%;left:70%}"
+  },
+  {
+    "index": "34",
+    "css": ".lang5{top:40%;right:72%}"
+  },
+  {
+    "index": "35",
+    "css": ".lang6{top:40%;left:72%}"
+  },
+  {
+    "index": "36",
+    "css": ".lang7{top:60%;right:70%}"
+  },
+  {
+    "index": "37",
+    "css": ".lang8{top:60%;left:70%}"
+  },
+  {
+    "index": "38",
+    "css": ".lang9{top:80%;right:60%}"
+  },
+  {
+    "index": "39",
+    "css": ".lang10{top:80%;left:60%}"
+  },
+  {
+    "index": "40",
+    "css": ".central-featured:after{content:' ';display:block;visibility:hidden;clear:both;height:0;font-size:0}"
+  },
+  {
+    "index": "41",
+    "css": ".search-container{float:none;max-width:95%;width:540px;margin:0 auto 19.5px auto;margin:0 auto 1.95rem auto;padding:3.9px;padding:.39rem;text-align:center;vertical-align:middle}"
+  },
+  {
+    "index": "42",
+    "css": ".search-container{margin-top:0}"
+  },
+  {
+    "index": "43",
+    "css": ".search-container{margin-top:0;height:78px;height:7.8rem;position:absolute;top:65px;top:6.5rem;left:0;right:0;max-width:100%;width:auto;padding:0;text-align:left}"
+  },
+  {
+    "index": "44",
+    "css": "fieldset{border:1px solid silver;margin:0 2px;margin:0 .2rem;padding:5.6px 10px 12px;padding:.56rem 1rem 1.2rem}"
+  },
+  {
+    "index": "45",
+    "css": "form fieldset{margin:0;border-left:0;border-right:0}"
+  },
+  {
+    "index": "46",
+    "css": ".pure-form fieldset{margin:0;padding:5.6px 0 12px;padding:.56rem 0 1.2rem;border:0}"
+  },
+  {
+    "index": "47",
+    "css": ".search-container .pure-form fieldset{margin-left:5px;margin-left:.5rem;margin-right:80px;margin-right:8rem}"
+  },
+  {
+    "index": "48",
+    "css": "button,input,optgroup,select,textarea{color:inherit;font:inherit;margin:0}"
+  },
+  {
+    "index": "49",
+    "css": "input{line-height:normal}"
+  },
+  {
+    "index": "50",
+    "css": ".search-container .search-input{display:inline-block;position:relative;width:73%;margin-right:8px;margin-right:.8rem;vertical-align:top}"
+  },
+  {
+    "index": "51",
+    "css": ".search-container .search-input{margin-left:5px;margin-left:.5rem;margin-right:-70px;margin-right:-7rem;margin-bottom:0;width:100%}"
+  },
+  {
+    "index": "52",
+    "css": "input[type=search]{-webkit-appearance:none;-webkit-box-sizing:content-box;-moz-box-sizing:content-box;box-sizing:content-box}"
+  },
+  {
+    "index": "53",
+    "css": ".pure-form input[type=search]{background-color:#fff;display:inline-block;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;border:1px solid #a2a9b1;-moz-border-radius:2px;border-radius:2px;padding:8px;padding:.8rem;-webkit-box-shadow:inset 0 0 0 1px #fff;-moz-box-shadow:inset 0 0 0 1px #fff;box-shadow:inset 0 0 0 1px #fff;vertical-align:middle}"
+  },
+  {
+    "index": "54",
+    "css": ".pure-form input[type=search]{margin-bottom:4.8px;margin-bottom:.48rem;display:block}"
+  },
+  {
+    "index": "55",
+    "css": "#searchInput{height:43.2px;height:4.32rem;width:100%;padding:8px;padding:.8rem;padding-right:102.4px;padding-right:10.24rem;font-size:16px;font-size:1.6rem;line-height:1.6}"
+  },
+  {
+    "index": "56",
+    "css": "input[type=search]::-webkit-search-cancel-button,input[type=search]::-webkit-search-decoration{-webkit-appearance:none}"
+  },
+  {
+    "index": "57",
+    "css": ".search-container input[type=search]::-webkit-search-cancel-button,.search-container input[type=search]::-webkit-search-decoration,.search-container input[type=search]::-webkit-search-results-button,.search-container input[type=search]::-webkit-search-results-decoration{-webkit-appearance:none}"
+  },
+  {
+    "index": "58",
+    "css": ".styled-select{display:none;position:absolute;top:10px;top:1rem;bottom:12px;bottom:1.2rem;right:12px;right:1.2rem;max-width:95px;max-width:9.5rem;height:24px;height:2.4rem;margin:0;padding:0;-moz-border-radius:2px;border-radius:2px}"
+  },
+  {
+    "index": "59",
+    "css": ".styled-select.no-js{width:95px;width:9.5rem}"
+  },
+  {
+    "index": "60",
+    "css": ".site-license{margin:0;color:#54595d;text-align:center}"
+  },
+  {
+    "index": "61",
+    "css": ".footer{overflow:hidden;max-width:100%;margin:0 auto;padding:41.6px 12.8px 12.8px;padding:4.16rem 1.28rem 1.28rem;font-size:12.8px;font-size:1.28rem}"
+  },
+  {
+    "index": "62",
+    "css": ".footer{display:-webkit-box;display:-webkit-flex;display:-moz-box;display:-ms-flexbox;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-webkit-flex-direction:column;-moz-box-orient:vertical;-moz-box-direction:normal;-ms-flex-direction:column;flex-direction:column;padding-top:12.8px;padding-top:1.28rem}"
+  },
+  {
+    "index": "63",
+    "css": ".footer{padding:9.6px 6.4px 12.8px;padding:.96rem .64rem 1.28rem}"
+  },
+  {
+    "index": "64",
+    "css": "hr{-webkit-box-sizing:content-box;-moz-box-sizing:content-box;box-sizing:content-box;height:0}"
+  },
+  {
+    "index": "65",
+    "css": "hr{clear:both;height:0;border:0;border-bottom:1px solid #c8ccd1;margin:2.6px 13px;margin:.26rem 1.3rem}"
+  },
+  {
+    "index": "66",
+    "css": "hr{margin-top:6.5px;margin-top:.65rem}"
+  },
+  {
+    "index": "67",
+    "css": ".lang-list-container{background-color:#f8f9fa;overflow:hidden;position:relative;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;max-height:0;width:80%;margin:-16px auto 48px;margin:-1.6rem auto 4.8rem;-webkit-transition:max-height .5s ease-out,visibility .5s ease-in 1s;-moz-transition:max-height .5s ease-out,visibility .5s ease-in 1s;transition:max-height .5s ease-out,visibility .5s ease-in 1s}"
+  },
+  {
+    "index": "68",
+    "css": ".lang-list-container{width:auto;margin-left:8px;margin-left:.8rem;margin-right:8px;margin-right:.8rem}"
+  },
+  {
+    "index": "69",
+    "css": ".js-enabled .lang-list-container{visibility:hidden}"
+  },
+  {
+    "index": "70",
+    "css": ".lang-list-border{background-color:#c8ccd1;display:block;position:relative;max-width:460px;width:80%;margin:-16px auto 16px;margin:-1.6rem auto 1.6rem;height:1px;-webkit-transition:max-width .2s ease-out 400s;-moz-transition:max-width .2s ease-out 400s;transition:max-width .2s ease-out 400s}"
+  },
+  {
+    "index": "71",
+    "css": ".lang-list-button-wrapper{text-align:center}"
+  },
+  {
+    "index": "72",
+    "css": "button{overflow:visible}"
+  },
+  {
+    "index": "73",
+    "css": "button,select{text-transform:none}"
+  },
+  {
+    "index": "74",
+    "css": "button,html input[type=button],input[type=reset],input[type=submit]{-webkit-appearance:button;cursor:pointer}"
+  },
+  {
+    "index": "75",
+    "css": ".pure-button{display:inline-block;zoom:1;line-height:normal;white-space:nowrap;text-align:center;cursor:pointer;-webkit-user-drag:none;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;background-color:#f8f9fa;color:#222;position:relative;min-height:19.2px;min-height:1.92rem;min-width:16px;min-width:1.6rem;margin:1.6px 0;margin:.16rem 0;border:1px solid #a2a9b1;-moz-border-radius:2px;border-radius:2px;padding:8px 16px;padding:.8rem 1.6rem;font-family:inherit;font-size:inherit;font-weight:700;text-decoration:none;vertical-align:top;-webkit-transition:background .1s ease,color .1s ease,border-color .1s ease,-webkit-box-shadow .1s ease;transition:background .1s ease,color .1s ease,border-color .1s ease,-webkit-box-shadow .1s ease;-moz-transition:background .1s ease,color .1s ease,border-color .1s ease,box-shadow .1s ease,-moz-box-shadow .1s ease;transition:background .1s ease,color .1s ease,border-color .1s ease,box-shadow .1s ease;transition:background .1s ease,color .1s ease,border-color .1s ease,box-shadow .1s ease,-webkit-box-shadow .1s ease,-moz-box-shadow .1s ease}"
+  },
+  {
+    "index": "76",
+    "css": ".pure-button-primary-progressive{background-color:#36c;border-color:#36c;color:#fff}"
+  },
+  {
+    "index": "77",
+    "css": ".search-container button{margin:0;padding:8px 16px;padding:.8rem 1.6rem;z-index:2;font-size:16px;font-size:1.6rem;line-height:1.6;vertical-align:middle}"
+  },
+  {
+    "index": "78",
+    "css": ".search-container .pure-form button{float:right;right:-70px;right:-7rem;margin:0;padding:8px 16px;padding:.8rem 1.6rem}"
+  },
+  {
+    "index": "79",
+    "css": ".footer:after,.footer:before{content:' ';display:table}"
+  },
+  {
+    "index": "80",
+    "css": ".footer-sidebar{width:30%;float:left;clear:left;margin-bottom:32px;margin-bottom:3.2rem;vertical-align:top}"
+  },
+  {
+    "index": "81",
+    "css": ".footer-sidebar{width:100%}"
+  },
+  {
+    "index": "82",
+    "css": ".footer .footer-sidebar{-webkit-box-ordinal-group:1;-moz-box-ordinal-group:1;-webkit-order:1;-ms-flex-order:1;order:1}"
+  },
+  {
+    "index": "83",
+    "css": ".footer-sidebar-content{position:relative;max-width:350px;margin:0 auto}"
+  },
+  {
+    "index": "84",
+    "css": ".footer-sidebar-content{max-width:none}"
+  },
+  {
+    "index": "85",
+    "css": ".sprite.footer-sidebar-icon{position:absolute;top:0;left:8px;left:.8rem}"
+  },
+  {
+    "index": "86",
+    "css": ".sprite.footer-sidebar-icon{display:block;position:relative;left:0;margin:0 auto 12.8px auto;margin:0 auto 1.28rem auto}"
+  },
+  {
+    "index": "87",
+    "css": ".footer-sidebar-text{position:relative;margin:0;padding-left:60px;padding-left:6rem;padding-right:20px;padding-right:2rem;color:#54595d}"
+  },
+  {
+    "index": "88",
+    "css": ".footer-sidebar-text{margin:0;padding:0;text-align:center}"
+  },
+  {
+    "index": "89",
+    "css": ".app-badges{background-color:#f8f9fa}"
+  },
+  {
+    "index": "90",
+    "css": ".footer .app-badges{-webkit-box-ordinal-group:3;-moz-box-ordinal-group:3;-webkit-order:3;-ms-flex-order:3;order:3}"
+  },
+  {
+    "index": "91",
+    "css": ".app-badges .footer-sidebar-content{max-width:350px;text-align:center}"
+  },
+  {
+    "index": "92",
+    "css": ".app-badges .footer-sidebar-text{padding-top:8px;padding-top:.8rem;padding-bottom:8px;padding-bottom:.8rem}"
+  },
+  {
+    "index": "93",
+    "css": ".app-badges .sprite.footer-sidebar-icon{top:8px;top:.8rem}"
+  },
+  {
+    "index": "94",
+    "css": ".app-badges .sprite.footer-sidebar-icon{display:inline-block;position:relative;margin:0;top:-3px;left:0;vertical-align:middle;-webkit-transform:scale(.7);-moz-transform:scale(.7);-ms-transform:scale(.7);transform:scale(.7)}"
+  },
+  {
+    "index": "95",
+    "css": ".app-badges ul{margin:0;padding:0;list-style-type:none}"
+  },
+  {
+    "index": "96",
+    "css": ".app-badge{float:left;width:49%}"
+  },
+  {
+    "index": "97",
+    "css": ".app-badge-ios{border-right:1px solid}"
+  },
+  {
+    "index": "98",
+    "css": ".app-badge-android a,.app-badge-ios a{display:block}"
+  },
+  {
+    "index": "99",
+    "css": ".app-badge-fulllist{width:100%;margin:19.2px 0 6.4px 0;margin:1.92rem 0 .64rem 0}"
+  },
+  {
+    "index": "100",
+    "css": ".other-projects{display:inline-block;width:70%}"
+  },
+  {
+    "index": "101",
+    "css": ".other-projects{width:100%}"
+  },
+  {
+    "index": "102",
+    "css": ".footer .other-projects{-webkit-box-ordinal-group:2;-moz-box-ordinal-group:2;-webkit-order:2;-ms-flex-order:2;order:2}"
+  },
+  {
+    "index": "103",
+    "css": ".other-project{float:left;position:relative;width:33%;height:90px;height:9rem}"
+  },
+  {
+    "index": "104",
+    "css": ".other-project{width:33%}"
+  },
+  {
+    "index": "105",
+    "css": ".other-project{width:50%}"
+  },
+  {
+    "index": "106",
+    "css": ".other-project-link{display:inline-block;min-height:50px;width:100%;white-space:nowrap}"
+  },
+  {
+    "index": "107",
+    "css": ".other-project-icon{display:inline-block;width:50px;text-align:center}"
+  },
+  {
+    "index": "108",
+    "css": ".other-project-text{display:inline-block;max-width:65%;vertical-align:middle;white-space:normal}"
+  },
+  {
+    "index": "109",
+    "css": ".other-project-tagline,.other-project-title{display:block}"
+  },
+  {
+    "index": "110",
+    "css": ".other-project-tagline{color:#54595d;font-size:12.16px;font-size:1.216rem}"
+  },
+  {
+    "index": "111",
+    "css": ".svg-Wikinews-logo_sister{background-image:url(portal/wikipedia.org/assets/img/Wikinews-logo_sister.png);background-position:0 0;-webkit-background-size:47px 26px;-moz-background-size:47px 26px;background-size:47px 26px;width:47px;height:26px}"
+  },
+  {
+    "index": "112",
+    "css": ".footer:after{clear:both}"
+  },
+  {
+    "index": "113",
+    "css": ".lang-list-content{position:relative;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;width:100%;padding:16px 16px 0;padding:1.6rem 1.6rem 0}"
+  },
+  {
+    "index": "114",
+    "css": ".bookshelf-container{display:block;overflow:visible;height:1px;width:100%;margin:24px 0 16px;margin:2.4rem 0 1.6rem;font-size:13px;font-size:1.3rem;font-weight:700;line-height:20px;line-height:2rem}"
+  },
+  {
+    "index": "115",
+    "css": ".bookshelf-container{text-align:left;width:auto}"
+  },
+  {
+    "index": "116",
+    "css": ".bookshelf{overflow:visible}"
+  },
+  {
+    "index": "117",
+    "css": ".bookshelf{display:block;border-top:1px solid #c8ccd1;-webkit-box-shadow:0 -1px 0 #fff;-moz-box-shadow:0 -1px 0 #fff;box-shadow:0 -1px 0 #fff;text-align:center;white-space:nowrap}"
+  },
+  {
+    "index": "118",
+    "css": ".bookshelf{width:auto;left:auto}"
+  },
+  {
+    "index": "119",
+    "css": ".bookshelf span{background-color:#f8f9fa;position:relative;top:-11.2px;top:-1.12rem;font-weight:400}"
+  },
+  {
+    "index": "120",
+    "css": ".bookshelf-container .text{padding:0 9.92px;padding:0 .992rem}"
+  },
+  {
+    "index": "121",
+    "css": ".langlist{width:auto;margin:16px 0;margin:1.6rem 0;text-align:left}"
+  },
+  {
+    "index": "122",
+    "css": ".langlist{font-size:inherit}"
+  },
+  {
+    "index": "123",
+    "css": ".hlist ul{margin:0;padding:0}"
+  },
+  {
+    "index": "124",
+    "css": ".langlist>ul{-webkit-column-width:11.2rem;-moz-column-width:11.2rem;column-width:11.2rem}"
+  },
+  {
+    "index": "125",
+    "css": ".hlist li{display:inline}"
+  },
+  {
+    "index": "126",
+    "css": ".langlist>ul>li{display:block;line-height:1.7;-webkit-column-break-inside:avoid;page-break-inside:avoid;break-inside:avoid}"
+  },
+  {
+    "index": "127",
+    "css": ".hlist li:before{content:\" · \";font-weight:700}"
+  },
+  {
+    "index": "128",
+    "css": ".langlist>ul>li:before{content:none}"
+  },
+  {
+    "index": "129",
+    "css": ".hlist li:first-child:before{content:none}"
+  },
+  {
+    "index": "130",
+    "css": ".langlist a{word-wrap:break-word;white-space:normal}"
+  },
+  {
+    "index": "131",
+    "css": ".langlist>ul>li a{white-space:normal}"
+  },
+  {
+    "index": "132",
+    "css": ".hlist ul ul{display:inline}"
+  },
+  {
+    "index": "133",
+    "css": ".hlist li>ul:before{content:\"\\00a0(\"}"
+  },
+  {
+    "index": "134",
+    "css": ".hlist li>ul:after{content:\") \"}"
+  },
+  {
+    "index": "135",
+    "css": ".langlist-others{font-weight:700}"
+  },
+  {
+    "index": "136",
+    "css": ".langlist-others>ul{text-align:center;-webkit-column-count:1;-moz-column-count:1;column-count:1}"
+  },
+  {
+    "index": "137",
+    "css": ".langlist-others>ul li{display:inline}"
+  },
+  {
+    "index": "138",
+    "css": ".langlist-others>ul li:before{content:' · '}"
+  },
+  {
+    "index": "139",
+    "css": ".langlist-others>ul li:first-child:before{content:none}"
+  },
+  {
+    "index": "140",
+    "css": ".lang-list-button{background-color:#f8f9fa;display:inline;position:relative;z-index:1;margin:0 auto;padding:6.4px 12.8px;padding:.64rem 1.28rem;outline:16px solid #fff;outline:1.6rem solid #fff;border:1px solid #a2a9b1;-moz-border-radius:2px;border-radius:2px;color:#36c;font-size:12.8px;font-size:1.28rem;font-weight:400;line-height:1;-webkit-transition:outline-width .1s ease-in .5s;-moz-transition:outline-width .1s ease-in .5s;transition:outline-width .1s ease-in .5s}"
+  },
+  {
+    "index": "141",
+    "css": ".lang-list-button i{display:inline-block;vertical-align:middle}"
+  },
+  {
+    "index": "142",
+    "css": ".lang-list-button-text{padding:0 6.4px;padding:0 .64rem;vertical-align:middle}"
+  },
+  {
+    "index": "143",
+    "css": ".svg-arrow-down-blue{-webkit-transition:-webkit-transform .2s ease-out;transition:-webkit-transform .2s ease-out;-moz-transition:transform .2s ease-out,-moz-transform .2s ease-out;transition:transform .2s ease-out;transition:transform .2s ease-out,-webkit-transform .2s ease-out,-moz-transform .2s ease-out}"
+  },
+  {
+    "index": "144",
+    "css": ".jsl10n-visible .central-featured,.jsl10n-visible .jsl10n{visibility:visible}"
+  },
+  {
+    "index": "145",
+    "css": ".styled-select .hide-arrow{right:32px;right:3.2rem;max-width:68px;max-width:6.8rem;height:24px;height:2.4rem;padding:0;overflow:hidden;text-align:right}"
+  },
+  {
+    "index": "146",
+    "css": ".styled-select.js-enabled .hide-arrow{padding:0 24px 0 8px;padding:0 2.4rem 0 .8rem}"
+  },
+  {
+    "index": "147",
+    "css": ".search-container label{display:none}"
+  },
+  {
+    "index": "148",
+    "css": ".search-container .js-langpicker-label{display:inline-block;margin:0;color:#54595d;font-size:12.8px;font-size:1.28rem;line-height:24px;line-height:2.4rem;text-transform:uppercase}"
+  },
+  {
+    "index": "149",
+    "css": ".styled-select select{background:0 0;display:inline;overflow:hidden;height:24px;height:2.4rem;min-width:110px;min-width:11rem;max-width:110px;max-width:11rem;width:110px;width:11rem;outline:0;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;border:0;line-height:19.5px;line-height:1.95rem;-webkit-appearance:none;-moz-appearance:window;text-indent:.01px;text-overflow:'';-o-appearance:none!important;opacity:0;-moz-appearance:none;appearance:none;cursor:pointer}"
+  },
+  {
+    "index": "150",
+    "css": ".styled-select.js-enabled select{background:0 0;position:absolute;top:0;left:0;height:100%;z-index:1;width:100%;border:0;margin:0;padding:0 24px 0;padding:0 2.4rem 0;color:transparent;color:rgba(255,255,255,0)}"
+  },
+  {
+    "index": "151",
+    "css": ".styled-select.js-enabled select option{color:#54595d}"
+  },
+  {
+    "index": "152",
+    "css": ".styled-select-active-helper{display:none}"
+  },
+  {
+    "index": "153",
+    "css": ".search-container .sprite.svg-arrow-down{position:absolute;top:7px;top:.7rem;right:6.5px;right:.65rem;margin:0}"
+  },
+  {
+    "index": "154",
+    "css": ".sprite{background-image:url(portal/wikipedia.org/assets/img/sprite-6e35f464.png);background-image:linear-gradient(transparent,transparent),url(portal/wikipedia.org/assets/img/sprite-6e35f464.svg);background-repeat:no-repeat;display:inline-block;vertical-align:middle}"
+  },
+  {
+    "index": "155",
+    "css": ".svg-Wikipedia_wordmark{background-position:0 -254px;width:176px;height:32px}"
+  },
+  {
+    "index": "156",
+    "css": ".svg-Wikimedia-logo_black{background-position:0 -212px;width:42px;height:42px}"
+  },
+  {
+    "index": "157",
+    "css": ".svg-wikipedia_app_tile{background-position:0 -633px;width:42px;height:42px}"
+  },
+  {
+    "index": "158",
+    "css": ".svg-Commons-logo_sister{background-position:0 0;width:47px;height:47px}"
+  },
+  {
+    "index": "159",
+    "css": ".svg-Wikivoyage-logo_sister{background-position:0 -446px;width:36px;height:36px}"
+  },
+  {
+    "index": "160",
+    "css": ".svg-Wiktionary-logo_sister{background-position:0 -482px;width:37px;height:37px}"
+  },
+  {
+    "index": "161",
+    "css": ".svg-Wikibooks-logo_sister{background-position:0 -126px;width:37px;height:37px}"
+  },
+  {
+    "index": "162",
+    "css": ".svg-Wikidata-logo_sister{background-position:0 -163px;width:49px;height:49px}"
+  },
+  {
+    "index": "163",
+    "css": ".svg-Wikiversity-logo_sister{background-position:0 -409px;width:43px;height:37px}"
+  },
+  {
+    "index": "164",
+    "css": ".svg-Wikiquote-logo_sister{background-position:0 -286px;width:42px;height:42px}"
+  },
+  {
+    "index": "165",
+    "css": ".svg-MediaWiki-logo_sister{background-position:0 -47px;width:42px;height:42px}"
+  },
+  {
+    "index": "166",
+    "css": ".svg-Wikisource-logo_sister{background-position:0 -328px;width:39px;height:39px}"
+  },
+  {
+    "index": "167",
+    "css": ".svg-Wikispecies-logo_sister{background-position:0 -367px;width:42px;height:42px}"
+  },
+  {
+    "index": "168",
+    "css": ".svg-Meta-Wiki-logo_sister{background-position:0 -89px;width:37px;height:37px}"
+  },
+  {
+    "index": "169",
+    "css": ".svg-translate-icon{background-position:0 -615px;width:25px;height:18px}"
+  },
+  {
+    "index": "170",
+    "css": ".svg-arrow-down-blue{background-position:0 -527px;width:12px;height:8px}"
+  },
+  {
+    "index": "171",
+    "css": ".svg-search-icon{background-position:0 -593px;width:22px;height:22px}"
+  },
+  {
+    "index": "172",
+    "css": ".svg-arrow-down{background-position:0 -519px;width:12px;height:8px}"
+  }
+]
